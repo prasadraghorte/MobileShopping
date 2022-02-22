@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29602" started-at="2022-02-22T23:03:04 IST" finished-at="2022-02-22T23:03:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29602" started-at="2022-02-22T23:03:04 IST" finished-at="2022-02-22T23:03:34 IST">
+      <class name="testCases.LoginPageTest">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:testCases.LoginPageTest@4923ab24]" name="killAllNodes" is-config="true" duration-ms="3013" started-at="2022-02-22T23:03:04 IST" finished-at="2022-02-22T23:03:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testCases.LoginPageTest@4923ab24]" name="login" duration-ms="26491" started-at="2022-02-22T23:03:08 IST" finished-at="2022-02-22T23:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testCases.LoginPageTest -->
+      <class name="testCases.HomePageTest">
+        <test-method status="PASS" signature="addTwoItemstoCart()[pri:0, instance:testCases.HomePageTest@371a67ec]" name="addTwoItemstoCart" duration-ms="0" started-at="2022-02-22T23:03:34 IST" finished-at="2022-02-22T23:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTwoItemstoCart -->
+        <test-method status="PASS" signature="addLasttoCart()[pri:0, instance:testCases.HomePageTest@371a67ec]" name="addLasttoCart" duration-ms="0" started-at="2022-02-22T23:03:34 IST" finished-at="2022-02-22T23:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLasttoCart -->
+        <test-method status="PASS" signature="verifyHomePageDisplayed()[pri:0, instance:testCases.HomePageTest@371a67ec]" name="verifyHomePageDisplayed" duration-ms="1" started-at="2022-02-22T23:03:34 IST" finished-at="2022-02-22T23:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageDisplayed -->
+        <test-method status="PASS" signature="addOneItemtoCart()[pri:0, instance:testCases.HomePageTest@371a67ec]" name="addOneItemtoCart" duration-ms="0" started-at="2022-02-22T23:03:34 IST" finished-at="2022-02-22T23:03:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneItemtoCart -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
